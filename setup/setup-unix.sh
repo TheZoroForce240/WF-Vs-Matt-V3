@@ -16,5 +16,5 @@ haxelib install tjson 1.4.0
 haxelib git flxanimate https://github.com/ShadowMario/flxanimate dev
 haxelib git linc_luajit https://github.com/superpowers04/linc_luajit
 haxelib install hxdiscord_rpc 1.1.1
-haxelib git funkin.vis https://github.com/CodenameCrew/cne-funkVis
+haxelib git funkin.vis https://github.com/FunkinCrew/funkVis 1966f8f
 haxelib git grig.audio https://gitlab.com/haxe-grig/grig.audio.git
